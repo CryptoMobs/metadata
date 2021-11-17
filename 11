@@ -1,0 +1,35 @@
+{
+    "name": "CryptoMob #11",
+    "image": "ipfs://QmdKShhLh2NnZJ27TCyq9rBvhQfjqJz6ZjZ5yT7bqcvpBC",
+    "external_url": "https://example.com",
+    "attributes": [
+        {
+            "trait_type": "Faction",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Mob Type",
+            "value": "Mob Egg"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Top",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Bottom",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Unknown"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Unknown"
+        }
+    ]
+}
